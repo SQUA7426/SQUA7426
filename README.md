@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SQUA7426
+- 👀 I’m interested in Computer Science and Mangas
+- 🌱 I’m currently learning Java and C++ (more)
